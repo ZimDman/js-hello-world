@@ -4,7 +4,14 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+function sum(a, b){  return a + b;}
+
+
+console.log('"Hello World!" as Dylan said "there is no success like failure and failure is no success at all"' );
+console.log('after collecting fees peter has', '$',sum (2,5) ,'remaining');
+
+
+
 
 /*  
 Next, PLAY! 
